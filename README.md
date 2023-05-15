@@ -12,3 +12,7 @@ Este é um repositório criado para armazenar códigos do meu progresso no apren
 ## Como utilizar
 
 Para utilizar os códigos e projetos contidos neste repositório, você precisa ter o R e o RStudio instalados em seu computador. Após clonar ou baixar o repositório, abra o projeto no RStudio e execute os scripts.
+
+## Exemplos de saídas geradas
+
+![Rplot](https://github.com/s4bino/r-basics/assets/121155839/a3d78ae5-9f96-4a71-9cee-bb6e1d996148)
